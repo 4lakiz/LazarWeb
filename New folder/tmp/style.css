@@ -1,0 +1,56 @@
+body
+{margin:0;
+padding:0;
+}
+
+.box1
+{width:100%;
+background-color:gold;
+color:green;
+height:15%;
+float:left;
+display: block;}
+
+.box2
+{
+width:60%;
+height:85%;
+float:left;
+display: block;
+background-color: orangered;
+text-align: center;
+}
+
+.box3
+{
+width: 40%;
+height: 42.5%;
+background-color: limegreen;
+float: left;
+}
+
+.box4
+{width:40%;
+height: 42.5%;
+background-color: dodgerblue;
+float: left;
+}
+
+
+
+.box1 h1
+{
+   font-size:60px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+
+.box2 h2
+
+{
+    margin-top: 70px;
+    margin-bottom: 0;
+    font-size: 35px;
+}
+
